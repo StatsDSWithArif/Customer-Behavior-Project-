@@ -55,15 +55,13 @@ Git / GitHub	Version control and project hosting
 🔍 Exploratory Data Analysis (EDA)
 Key questions answered during EDA:
 
-Average purchase amount by category — grouped bar chart
-Which gender spends more on average? — pie chart comparison
-Top 5 most purchased items — horizontal bar chart
-Seasonal effect on purchase amount — boxplots by season
-Review rating distribution — histogram with KDE
-Most popular payment methods — bar chart
-Subscribers vs. non-subscribers spending — comparative bar chart
-Shipping type usage by purchase frequency — stacked bar chart
-Age group distribution of customers — segmented bar chart
+1.Average purchase amount by category — grouped bar chart
+2.Which gender spends more on average? — pie chart comparison
+3.Top 5 most purchased items — horizontal bar chart
+4.Most popular payment methods — bar chart
+5.Subscribers vs. non-subscribers spending — comparative bar chart
+6.Shipping type usage by purchase frequency — stacked bar chart
+
 
 
 
